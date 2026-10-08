@@ -7,4 +7,4 @@
    - Data is transferred directly between Google Drive and the owner's computer.
    - No data is collected, stored on other servers, or shared with anyone.
 
-   Contact: YOUR-EMAIL
+   Contact: burgstallermarcel@gmail.com
